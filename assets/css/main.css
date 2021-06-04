@@ -206,13 +206,13 @@ a {
     -webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, opacity 0.2s ease-in-out;
     -ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, opacity 0.2s ease-in-out;
     transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, opacity 0.2s ease-in-out;
-    color: #37c0fb;
+    color: #008b13;
     text-decoration: none;
     border-bottom: dotted 1px;
 }
 
 a:hover {
-    color: #37c0fb;
+    color: #008b13;
     border-bottom-color: transparent;
 }
 
@@ -1906,7 +1906,7 @@ label {
 .icon.major {
     text-align: center;
     cursor: default;
-    background-color: #37c0fb;
+    background-color: #008b13;
     background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/bg01.png");
     background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/bg01.png");
     background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/bg01.png");
@@ -2801,7 +2801,7 @@ button.small,
         background-image: linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3)), url("images/bg01.png");
         height: 44px;
         line-height: 44px;
-        box-shadow: 0 4px 0 0 #37c0fb;
+        box-shadow: 0 4px 0 0 #008b13;
     }
     #titleBar .title {
         display: block;
